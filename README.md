@@ -1,4 +1,4 @@
-# Mikrodizi Gen İfadesi Verisinden ALL/AML Lösemi Alt Tipi Sınıflandırması
+# Mikrodizi Gen İfadesi Verisinde Makine Öğrenmesi ile ALL/AML Lösemi Alt Tipi Sınıflandırması ve Anomali Tespiti
 
 **Ebru Gül** (503020260037) · Dönem Projesi, Ara Rapor
 
